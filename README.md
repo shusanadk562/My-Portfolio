@@ -7,7 +7,7 @@ A modern and responsive **personal portfolio website** built to showcase my skil
 
 ## 🌐 Live Demo
 
-🔗 https://www.shusanadhikari.com.np/
+🔗 https://shusanadk562.github.io/My-Portfolio/
 
 ---
 
